@@ -67,7 +67,7 @@ def wykres(macierz, nazwa):
     plt.savefig(nazwa)
     plt.show()
 
-# Examples:
+# Examples (Macierz_kropkowa is my file path):
 # print(macierz("Macierz_kropkowa\Albu_chicken.fasta", "Macierz_kropkowa\Albu_human.fasta.txt"))
 # print(filtrowanie('Macierz_kropkowa\Albu_chicken.fasta', 'Macierz_kropkowa\Albu_human.fasta.txt', 3, 3))
 
